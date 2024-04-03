@@ -287,8 +287,8 @@ const Register = () => {
                             <p className="text-red-500 text-xs italic">
                               {errors?.name}
                             </p>
-                          )}
-                        </div>
+                          )}   
+                        </div>  
 
                         <div className="field input-field mb-6 w-full">
                           <InputBx
